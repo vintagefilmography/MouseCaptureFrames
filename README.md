@@ -1,4 +1,4 @@
-# MouseCaptureGui
+# MouseCaptureFrames
 
 Instructions:  
 Download the repo to your local drive.  
